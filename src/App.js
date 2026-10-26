@@ -16,7 +16,7 @@ function App() {
         <Video
           url="https://res.cloudinary.com/dxkxvfo2o/video/upload/v1608169739/video2_mecbdo.mp4"
           channel="thewebdev"
-          description="Tuesday morning editing on kdenlive in Windows"
+          description="Tuesday morning editing on kdenlive in Windows."
           song="Kdenlive is great"
           likes={445}
           shares={290}
